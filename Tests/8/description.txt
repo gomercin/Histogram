@@ -1,0 +1,3 @@
+Interval and Entries labels are interchanged with their values.
+As Entries: label is seen, all the numbers will be tried to read as entries (event the first numbers of intervals)
+All the numeric lines will be treated as outliers

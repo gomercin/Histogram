@@ -1,0 +1,1 @@
+has intervals where larger number comes first, they should be reported and should not be used as valid intervals

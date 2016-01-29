@@ -1,0 +1,3 @@
+tests with relatively large and small numbers
+all inputs are valid
+(I should have tests with float max and float min values here)

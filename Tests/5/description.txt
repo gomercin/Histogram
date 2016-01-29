@@ -1,0 +1,3 @@
+has overlapping intervals and spaces in the input
+should not be a problem 
+entries should still be placed in the closest interval

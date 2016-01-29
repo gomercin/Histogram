@@ -1,0 +1,5 @@
+Line cannot be parsed as interval "Lorem" in input file, at line 1
+Line cannot be parsed as interval "Ipsum" in input file, at line 2
+Line cannot be parsed as interval "Doler" in input file, at line 3
+Line cannot be parsed as interval "Sit " in input file, at line 4
+Line cannot be parsed as interval "Amet" in input file, at line 5

@@ -1,0 +1,2 @@
+Input file Tests/4/input.txt could not be opened for reading. Error detail: No such file or directory
+File cannot be read in FileIOManagerCls.ReadInterval

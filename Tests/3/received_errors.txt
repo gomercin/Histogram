@@ -1,0 +1,4 @@
+Line cannot be parsed as interval "float.epsilon() float.epsilon()*2" in input file, at line 6
+Incorrect instance of Intervals: in input file, at line 11
+Line cannot be parsed as interval "[10, 15)" in input file, at line 12
+Line cannot be parsed as entry: "float.epsilon()" in input file, at line 33
