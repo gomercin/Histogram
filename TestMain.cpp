@@ -4,7 +4,6 @@
 //
 //  Created by Omer Karaduman on 25.01.2016.
 //
-
 #include "FileHistogramApplicationCls.hpp"
 #include <sstream>
 #include <fstream>
